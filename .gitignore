@@ -2,3 +2,4 @@ checkstyle-result.xml
 node_modules
 test.tap
 coverage
+.DS_Store
