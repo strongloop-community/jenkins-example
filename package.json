@@ -14,7 +14,7 @@
   "author": "Marc Harter <wavded@gmail.com>",
   "license": "ISC",
   "devDependencies": {
-    "eslint": "^0.10.0",
+    "eslint": "^3.19.0",
     "istanbul": "^0.3.2",
     "tape": "^3.0.3"
   }
